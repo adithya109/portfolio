@@ -1,0 +1,41 @@
+body{
+    background-image: url(./src/1672440.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+h4{
+    color: white;
+    font-size: small;
+    padding: 30px;
+}
+h1{
+    color: white;
+    padding: 30px;
+
+}
+li{
+    color: white;
+    display: inline;
+    padding: 30px;
+}
+ul{
+    text-align: right;
+}
+h2{
+    color: white; 
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.section{
+    color: red;
+}
+a{
+    color: white;
+    text-decoration-line: none;
+}
+.blue{
+    color: blue;
+}

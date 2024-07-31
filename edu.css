@@ -1,0 +1,59 @@
+body{
+   background-color: black;
+}
+li{
+    color: white;
+    display: inline;
+    padding: 30px;
+}
+ul{
+    text-align: right;
+}
+.section{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: white;
+    text-decoration-line: none;
+}
+.blue{
+    color: blue;
+}
+h1{
+    color: red;
+    
+
+
+}
+
+
+.box{
+    height: 150px;
+    width: 300px;
+    border: 2px solid white;
+    margin: 10px;
+    border-radius: 30px;
+    background-color: white;
+    text-align: center;
+   
+} 
+
+    
+h2{
+    color: red;
+}
+.container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+img{
+    width: 80px;
+}
+.left{
+    display: flex;
+    gap: 20px;
+}
