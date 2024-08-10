@@ -52,4 +52,14 @@ button{
 .whatsapp i{
     color: green;
 }
-
+.linkedin i{
+    padding: 20px;
+    color: #0077B5;
+}
+.github i{
+    padding: 2px;
+}
+.email i{
+    padding: 20px;
+    color: #0077B5;
+}
