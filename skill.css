@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+    text-align: center;
+    
+}
+u{
+    text-decoration-color: red;
+}
+a{
+    color: white;
+    text-decoration-line: none;
+}
+li{
+    color: white;
+    display: inline;
+    padding: 30px;
+}
+ul{
+    text-align: right;
+}
+.blue{
+    color: blue;
+}
+
